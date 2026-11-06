@@ -1,0 +1,21 @@
+file,patient_name,hospital_name,bill_date,total_amount,diagnosis_or_test,document_type,expected_decision,note
+01_hospital_bill.png,Isaac Bakshi,Lotus Care Hospital,01/05/2026,18450.0,Pneumonia,Hospital Bill,Within Limit,small bill
+02_hospital_bill.jpg,Jeet Radhakrishnan,Shreeji Heart Institute,23/09/2026,49999.0,Viral fever,Hospital Bill,Within Limit,one rupee under the limit
+03_hospital_bill.png,Dominic Kakar,Aarogya Superspeciality Hospital,04/02/2026,50000.0,Viral fever,Hospital Bill,Within Limit,exactly the limit (inclusive)
+04_hospital_bill.pdf,Radhika Dugar,Aarogya Superspeciality Hospital,19/04/2026,50001.0,Acute gastroenteritis,Hospital Bill,Needs Review,one rupee over
+05_hospital_bill.jpg,Mohini Prakash,Nirmal Nursing Home,23/02/2026,148825.0,Typhoid fever,Hospital Bill,Needs Review,lakh-scale bill
+06_hospital_bill.png,Chatura Chaudhari,Lotus Care Hospital,07/10/2026,52440.0,Appendicitis,Hospital Bill,Needs Review,"subtotal 49,942.86 is under, grand total is over"
+07_hospital_bill.pdf,Ranveer Minhas,Shreeji Heart Institute,05/09/2026,48300.0,Fracture of left radius,Hospital Bill,Within Limit,with GST lines
+08_hospital_bill.png,Elijah Andra,Sunrise Multispeciality Hospital,22/02/2026,45000.0,Kidney stone,Hospital Bill,Needs Review,amount in words does not match
+09_hospital_bill.jpg,Charan Chanda,Nirmal Nursing Home,27/09/2026,62500.0,Pneumonia,Hospital Bill,Needs Review,advance paid; grand total is used
+10_hospital_bill.jpg,Yuvraj Loke,Lotus Care Hospital,03/08/2026,32750.0,Acute gastroenteritis,Hospital Bill,Within Limit,heavily degraded scan
+11_prescription.png,Aachal Basu,Sanjeevani Clinic,12/08/2026,,Fracture of left radius,Prescription,Not Applicable,prescription
+12_prescription.jpg,Ekanta Shroff,Dr. Mehra's Family Clinic,23/01/2026,,Pneumonia,Prescription,Not Applicable,prescription
+13_prescription.pdf,Hredhaan Sandal,Sanjeevani Clinic,19/08/2026,,Pneumonia,Prescription,Not Applicable,prescription
+14_prescription.png,Bhavika Keer,Dr. Mehra's Family Clinic,22/02/2026,,Dengue fever,Prescription,Not Applicable,prescription
+15_prescription.jpg,Thomas Sura,Wellness Polyclinic,08/02/2026,,Fracture of left radius,Prescription,Not Applicable,prescription
+16_lab_report.png,Zayyan Bumb,CityCare Pathology Lab,02/03/2026,,Thyroid Profile,Lab Report,Not Applicable,lab report
+17_lab_report.pdf,Nihal Mukhopadhyay,Healthline Diagnostics Centre,24/09/2026,,Thyroid Profile,Lab Report,Not Applicable,lab report
+18_lab_report.jpg,Vrishti Cherian,Healthline Diagnostics Centre,02/06/2026,,Complete Blood Count,Lab Report,Not Applicable,lab report
+19_lab_report.png,Ayush Talwar,Healthline Diagnostics Centre,03/03/2026,,Complete Blood Count,Lab Report,Not Applicable,lab report
+20_lab_report.jpg,Anay Chander,Precision Diagnostics Laboratory,20/02/2026,,Thyroid Profile,Lab Report,Not Applicable,lab report
