@@ -1,0 +1,16 @@
+{
+  "documents": 20,
+  "extractor": "rules",
+  "field_accuracy": 0.992,
+  "document_type_accuracy": 1.0,
+  "decision_accuracy": 1.0,
+  "per_field_accuracy": {
+    "patient_name": 0.95,
+    "hospital_name": 1.0,
+    "bill_date": 1.0,
+    "total_amount": 1.0,
+    "diagnosis_or_test": 1.0,
+    "document_type": 1.0
+  },
+  "mean_ms_per_document": 1844
+}
